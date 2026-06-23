@@ -1,0 +1,38 @@
+# Materiali privati e non versionati
+_notes/
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Estratti temporanei
+_notes/.tmp-docx-*/
+
+# Documentazione
+*.docx
+*.doc
+*.pdf
+
+# Arduino: artefatti di build
+build/
+*.hex
+*.elf
+*.bin
+*.map
+
+# STM32CubeIDE
+Debug/
+Release/
+.settings/
+.cproject
+.project
+*.launch
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
